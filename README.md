@@ -1,1 +1,2 @@
-# resume built
+# Resume-template
+Resume template built with HTML &amp; CSS
